@@ -1,0 +1,138 @@
+(
+'Chauna torquata':4,
+'Anseranas semipalmata':4,
+(
+'Melanitta nigra':4,
+'Clangula hyemalis':4,
+'Mergellus albellus':4,
+'Tachyeres pteneres':4,
+'Speculanas specularis':4,
+'Pteronetta hartlaubii':4,
+'Marmaronetta angustirostris':4,
+'Lophonetta specularioides':4,
+'Callonetta leucophrys':4,
+'Asarcornis scutulata':4,
+'Amazonetta brasiliensis':4,
+(
+'Spatula querquedula':4,
+'Spatula discors':4,
+'Spatula clypeata':4
+)Spatula:4,
+'Histrionicus histrionicus':4,
+'Thalassornis leuconotus':4,
+'Sibirionetta formosa':4,
+(
+'Somateria mollissima':4,
+'Somateria fischeri':4
+)Somateria:4,
+'Biziura lobata':4,
+'Malacorhynchus membranaceus':4,
+'Chenonetta jubata':4,
+(
+'Nettapus pulchellus':4,
+'Nettapus coromandelianus':4
+)Nettapus:4,
+(
+'Tadorna tadorna':4,
+'Tadorna ferruginea':4,
+'Tadorna tadornoides':4
+)Tadorna:4,
+'Stictonetta naevosa':4,
+(
+'Bucephala clangula':4,
+'Bucephala islandica':4
+)Bucephala:4,
+'Netta rufina':4,
+(
+'Aythya nyroca':4,
+'Aythya collaris':4,
+'Aythya marila':4,
+'Aythya affinis':4,
+'Aythya valisineria':4,
+'Aythya australis':4,
+'Aythya americana':4
+)Aythya:4,
+'Alopochen aegyptiaca':4,
+'Sarkidiornis melanotos':4,
+(
+'Oxyura maccoa':4,
+'Oxyura leucocephala':4,
+'Oxyura australis':4,
+'Oxyura vittata':4
+)Oxyura:4,
+'Neochen jubata':4,
+(
+'Mergus merganser':4,
+'Mergus serrator':4
+)Mergus:4,
+(
+'Dendrocygna javanica':4,
+'Dendrocygna guttata':4,
+'Dendrocygna viduata':4,
+'Dendrocygna eytoni':4,
+'Dendrocygna bicolor':4,
+'Dendrocygna autumnalis':4,
+'Dendrocygna arcuata':4,
+'Dendrocygna arborea':4
+)Dendrocygna:4,
+(
+'Cygnus columbianus':4,
+'Cygnus buccinator':4,
+'Cygnus melancoryphus':4,
+'Cygnus olor':4,
+'Cygnus atratus':4
+)Cygnus:4,
+'Coscoroba coscoroba':4,
+'Chloephaga melanoptera':4,
+'Cereopsis novaehollandiae':4,
+'Cairina moschata':4,
+(
+'Branta bernicla':4,
+'Branta leucopsis':4,
+'Branta sandvicensis':4,
+'Branta canadensis':4
+)Branta:4,
+(
+'Anser fabalis':4,
+'Anser canagicus':4,
+'Anser rossii':4,
+'Anser albifrons':4,
+'Anser caerulescens':4,
+'Anser indicus':4,
+'Anser cygnoides':4,
+'Anser anser':4
+)Anser:4,
+(
+(
+'Anas flavirostris oxyptera':4,
+'Anas flavirostris flavirostris':4
+)'Anas flavirostris':4,
+(
+'Anas cyanoptera septentrionalium':4,
+'Anas cyanoptera cyanoptera':4
+)'Anas cyanoptera':4,
+'Anas zonorhyncha':4,
+'Anas puna':4,
+'Anas platalea':4,
+'Anas melleri':4,
+'Anas georgica':4,
+'Anas carolinensis':4,
+'Anas bahamensis':4,
+'Anas rhynchotis':4,
+'Anas superciliosa':4,
+'Anas acuta':4,
+'Anas platyrhynchos':4
+)Anas:4,
+(
+'Mareca strepera':4,
+'Mareca sibilatrix':4,
+'Mareca falcata':4,
+'Mareca americana':4,
+'Mareca penelope':4
+)Mareca:4,
+(
+'Aix sponsa':4,
+'Aix galericulata':4
+)Aix:4
+)Anatidae:4
+)Anseriformes:4;
