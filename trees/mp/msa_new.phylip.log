@@ -1,0 +1,159 @@
+MPBoot version 1.1.0 for Linux 64-bit built Mar 23 2018
+Copyright (c) 2016 Diep Thi Hoang, Le Sy Vinh, Tomas Flouri, Alexandros Stamatakis, Arndt von Haeseler and Bui Quang Minh.
+
+WARNING: Your CPU supports AVX but you are using SSE3 version of MPBoot!
+WARNING: Please switch to AVX version that is 40% faster than SSE3.
+
+Host:    exsto-Latitude-E5450 (AVX2, FMA3, 8 GB RAM)
+Command: /home/exsto/MPBOOT/mpboot-sse-1.1.0-Linux/bin/mpboot -s temp/msa_new.phylip -st AA
+Seed:    512406 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sun Nov 21 15:51:03 2021
+Kernel:  SSE3
+
+Reading alignment file temp/msa_new.phylip ... Phylip format detected
+Alignment most likely contains protein sequences
+Alignment has 101 sequences with 142 columns and 56 patterns
+ID   Sequence                          #Gap/Ambiguity
+1    aix_galericulata                  0    (0.000%)	19
+2    cairina_moschata                  0    (0.000%)	19
+3    sarkidiornis_melanotos            0    (0.000%)	19
+4    chenonetta_jubata                 0    (0.000%)	19
+5    amazonetta_brasiliensis           0    (0.000%)	19
+6    lophonetta_specularioides         0    (0.000%)	19
+7    marmaronetta_angustirostris       0    (0.000%)	19
+8    speculanas_specularis             0    (0.000%)	19
+9    tachyeres_pteneres                0    (0.000%)	19
+10   mareca_penelope                   0    (0.000%)	19
+11   anas_platyrhynchos                0    (0.000%)	19
+12   anas_acuta                        0    (0.000%)	19
+13   anas_superciliosa                 0    (0.000%)	19
+14   sibirionetta_formosa              0    (0.000%)	19
+15   mareca_americana                  0    (0.000%)	19
+16   anas_carolinensis                 0    (0.000%)	19
+17   spatula_discors                   0    (0.000%)	19
+18   mareca_falcata                    0    (0.000%)	19
+19   anas_georgica                     0    (0.000%)	19
+20   anas_melleri                      0    (0.000%)	19
+21   spatula_querquedula               0    (0.000%)	19
+22   mareca_sibilatrix                 0    (0.000%)	19
+23   mareca_strepera                   0    (0.000%)	19
+24   anas_zonorhyncha                  0    (0.000%)	19
+25   anas_flavirostris_flavirostris    0    (0.000%)	19
+26   anas_cyanoptera_septentrionalium  0    (0.000%)	19
+27   anas_rhynchotis                   0    (0.000%)	19
+28   spatula_clypeata                  0    (0.000%)	19
+29   anas_platalea                     0    (0.000%)	19
+30   anas_cyanoptera_cyanoptera        0    (0.000%)	19
+31   cyanochen_cyanopterus             0    (0.000%)	19
+32   anas_flavirostris_oxyptera        0    (0.000%)	19
+33   branta_canadensis                 0    (0.000%)	19
+34   branta_sandvicensis               0    (0.000%)	19
+35   branta_leucopsis                  0    (0.000%)	19
+36   branta_bernicla                   0    (0.000%)	19
+37   tadorna_tadornoides               0    (0.000%)	19
+38   nettapus_coromandelianus          0    (0.000%)	19
+39   malacorhynchus_membranaceus       0    (0.000%)	19
+40   coscoroba_coscoroba               0    (0.000%)	19
+41   cygnus_olor                       0    (0.000%)	19
+42   cygnus_melancoryphus              0    (0.000%)	19
+43   biziura_lobata                    0    (0.000%)	19
+44   mergus_serrator                   0    (0.000%)	19
+45   mergus_merganser                  0    (0.000%)	19
+46   alopochen_aegyptiaca              0    (0.000%)	19
+47   somateria_fischeri                0    (0.000%)	19
+48   histrionicus_histrionicus         0    (0.000%)	19
+49   tadorna_tadorna                   0    (0.000%)	19
+50   callonetta_leucophrys             0    (0.000%)	19
+51   pteronetta_hartlaubii             0    (0.000%)	19
+52   somateria_mollissima              0    (0.000%)	19
+53   bucephala_clangula                0    (0.000%)	19
+54   mergellus_albellus                0    (0.000%)	19
+55   melanitta_nigra                   0    (0.000%)	19
+56   oxyura_vittata                    0    (0.000%)	19
+57   oxyura_australis                  0    (0.000%)	19
+58   oxyura_leucocephala               0    (0.000%)	19
+59   oxyura_maccoa                     0    (0.000%)	19
+60   neochen_jubata                    0    (0.000%)	19
+61   aythya_americana                  0    (0.000%)	19
+62   aythya_australis                  0    (0.000%)	19
+63   asarcornis_scutulata              0    (0.000%)	19
+64   aythya_valisineria                0    (0.000%)	19
+65   aythya_affinis                    0    (0.000%)	19
+66   aythya_marila                     0    (0.000%)	19
+67   aythya_collaris                   0    (0.000%)	19
+68   aythya_nyroca                     0    (0.000%)	19
+69   netta_rufina                      0    (0.000%)	19
+70   stictonetta_naevosa               0    (0.000%)	19
+71   nettapus_pulchellus               0    (0.000%)	19
+72   anser_anser                       0    (0.000%)	19
+73   anser_cygnoides                   0    (0.000%)	19
+74   anser_caerulescens                0    (0.000%)	19
+75   anser_albifrons                   0    (0.000%)	19
+76   anser_rossii                      0    (0.000%)	19
+77   anser_canagicus                   0    (0.000%)	19
+78   anser_fabalis                     0    (0.000%)	19
+79   cereopsis_novaehollandiae         0    (0.000%)	19
+80   thalassornis_leuconotus           0    (0.000%)	19
+81   dendrocygna_arcuata               0    (0.000%)	19
+82   dendrocygna_bicolor               0    (0.000%)	19
+83   dendrocygna_viduata               0    (0.000%)	19
+84   dendrocygna_javanica              0    (0.000%)	19
+85   dendrocygna_eytoni                0    (0.000%)	19
+86   dendrocygna_guttata               0    (0.000%)	19
+87   dendrocygna_arborea               0    (0.000%)	19
+88   dendrocygna_autumnalis            0    (0.000%)	19
+89   cygnus_atratus                    0    (0.000%)	19
+90   chloephaga_melanoptera            0    (0.000%)	19
+91   cygnus_buccinator                 0    (0.000%)	19
+92   cygnus_columbianus                0    (0.000%)	19
+93   tadorna_ferruginea                1    (0.704%)	19
+94   clangula_hyemalis                 1    (0.704%)	19
+95   bucephala_islandica               1    (0.704%)	19
+96   anas_puna                         1    (0.704%)	19
+97   aix_sponsa                        1    (0.704%)	19
+98   anas_bahamensis                   1    (0.704%)	19
+99   anser_indicus                     0    (0.000%)	19
+100  anseranas_semipalmata             0    (0.000%)	19
+101  chauna_torquata                   1    (0.704%)	19
+**** TOTAL                             7 (0.049%)
+Time for parsimony tree construction: 0.017 seconds
+Parsimony score: 83
+Reordering patterns in alignment by decreasing order of pattern parsimony... 0.000 seconds
+NOTE: 63 identical sequences will be ignored during tree search
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.003 seconds
+
+NOTE: 1.539 MB RAM is required!
+Current best tree score: 81
+
+Generating 99 parsimony trees... (0 duplicated parsimony trees)
+CPU time: 0
+Finish initializing candidate tree set. Number of distinct locally optimal trees: 100
+Current best score: 79 / CPU time: 0
+
+Time: 0h:0m:0s
+RATCHET Iteration 10 / Score: 79 / Time: 0h:0m:0s
+RATCHET Iteration 20 / Score: 79 / Time: 0h:0m:0s (0h:0m:1s left)
+RATCHET Iteration 30 / Score: 79 / Time: 0h:0m:0s (0h:0m:1s left)
+RATCHET Iteration 40 / Score: 79 / Time: 0h:0m:0s (0h:0m:0s left)
+RATCHET Iteration 50 / Score: 79 / Time: 0h:0m:0s (0h:0m:0s left)
+RATCHET Iteration 60 / Score: 79 / Time: 0h:0m:0s (0h:0m:0s left)
+RATCHET Iteration 70 / Score: 79 / Time: 0h:0m:0s (0h:0m:0s left)
+RATCHET Iteration 80 / Score: 79 / Time: 0h:0m:0s (0h:0m:0s left)
+RATCHET Iteration 90 / Score: 79 / Time: 0h:0m:0s (0h:0m:0s left)
+RATCHET Iteration 100 / Score: 79 / Time: 0h:0m:0s (0h:0m:0s left)
+Scores of best 5 trees: 
+79 79 79 79 79 
+BEST SCORE FOUND : 79
+
+CPU time used for tree search: 0.657 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.657 sec (0h:0m:0s)
+Total CPU time used: 0.662 sec (0h:0m:0s)
+Total wall-clock time used: 0.662 sec (0h:0m:0s)
+
+Analysis results written to: 
+  MPBoot report:                 temp/msa_new.phylip.mpboot
+  Maximum-parsimony  tree:       temp/msa_new.phylip.treefile
+  Screen log file:               temp/msa_new.phylip.log
+
+Date and Time: Sun Nov 21 15:51:04 2021

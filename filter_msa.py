@@ -31,9 +31,18 @@ for i in data:
 
 newfile = open("temp/msa.fasta", "w")
 counter = 0
+selected_organisms = []
 for i in organism:
     if counter < 101:
+        selected_organisms.append(i)
         newfile.write(f">{i.replace(' ', '_')}\n")
         newfile.write(organism[i][0][1] + "\n")
         counter += 1
 print(counter)
+newfile.close()
+
+
+newfile = open("temp/organism_list.txt", "w")
+for i in selected_organisms:
+    newfile.write(i + "\n")
+newfile.close()

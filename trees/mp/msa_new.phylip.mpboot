@@ -1,0 +1,232 @@
+MPBoot 1.1.0 built Mar 23 2018
+
+Input file name: temp/msa_new.phylip
+Type of analysis: Parsimony tree reconstruction
+Random seed number: 512406
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 101 sequences with 142 amino-acid sites
+Number of constant sites: 108 (= 76.0563% of all sites)
+Number of site patterns: 56
+
+MAXIMUM PARSIMONY TREE
+-----------------------
+
+NOTE: Tree is UNROOTED although outgroup taxon 'aix_galericulata' is drawn at root
+
++--aix_galericulata
+|
+|              +--cairina_moschata
+|           +--|
+|           |  |  +--amazonetta_brasiliensis
+|           |  +--|
+|           |     |  +--tachyeres_pteneres
+|           |     +--|
+|           |        |                                                                 +--mareca_penelope
+|           |        |                                                              +--|
+|           |        |                                                              |  +--anas_superciliosa
+|           |        |                                                           +--|
+|           |        |                                                           |  +--spatula_discors
+|           |        |                                                        +--|
+|           |        |                                                        |  +--anas_zonorhyncha
+|           |        |                                                     +--|
+|           |        |                                                     |  +--anas_flavirostris_flavirostris
+|           |        |                                                  +--|
+|           |        |                                                  |  +--anas_carolinensis
+|           |        |                                               +--|
+|           |        |                                               |  +--sibirionetta_formosa
+|           |        |                                            +--|
+|           |        |                                            |  +--anas_platyrhynchos
+|           |        |                                         +--|
+|           |        |                                         |  +--mareca_americana
+|           |        |                                      +--|
+|           |        |                                      |  +--spatula_querquedula
+|           |        |                                   +--|
+|           |        |                                   |  +--anas_acuta
+|           |        |                                +--|
+|           |        |                                |  +--mareca_falcata
+|           |        |                             +--|
+|           |        |                             |  +--mareca_strepera
+|           |        |                          +--|
+|           |        |                          |  +--mareca_sibilatrix
+|           |        |                       +--|
+|           |        |                       |  +--anas_cyanoptera_septentrionalium
+|           |        |                    +--|
+|           |        |                    |  +--anas_georgica
+|           |        |                 +--|
+|           |        |                 |  +--anas_melleri
+|           |        |              +--|
+|           |        |              |  |        +--anas_rhynchotis
+|           |        |              |  |     +--|
+|           |        |              |  |     |  +--anas_platalea
+|           |        |              |  |  +--|
+|           |        |              |  |  |  +--anas_cyanoptera_cyanoptera
+|           |        |              |  +--|
+|           |        |              |     +--spatula_clypeata
+|           |        |           +--|
+|           |        |           |  |  +--anas_flavirostris_oxyptera
+|           |        |           |  +--|
+|           |        |           |     |  +--anas_puna
+|           |        |           |     +--|
+|           |        |           |        +--anas_bahamensis
+|           |        |        +--|
+|           |        |        |  |                                      +--branta_canadensis
+|           |        |        |  |                                   +--|
+|           |        |        |  |                                   |  +--branta_leucopsis
+|           |        |        |  |                                +--|
+|           |        |        |  |                                |  +--branta_bernicla
+|           |        |        |  |                             +--|
+|           |        |        |  |                             |  +--branta_sandvicensis
+|           |        |        |  |                          +--|
+|           |        |        |  |                          |  |                          +--anser_anser
+|           |        |        |  |                          |  |                       +--|
+|           |        |        |  |                          |  |                       |  +--anser_albifrons
+|           |        |        |  |                          |  |                    +--|
+|           |        |        |  |                          |  |                    |  +--anser_fabalis
+|           |        |        |  |                          |  |                 +--|
+|           |        |        |  |                          |  |                 |  +--anser_canagicus
+|           |        |        |  |                          |  |              +--|
+|           |        |        |  |                          |  |              |  +--anser_caerulescens
+|           |        |        |  |                          |  |           +--|
+|           |        |        |  |                          |  |           |  +--anser_rossii
+|           |        |        |  |                          |  |        +--|
+|           |        |        |  |                          |  |        |  +--anser_cygnoides
+|           |        |        |  |                          |  |     +--|
+|           |        |        |  |                          |  |     |  +--anser_indicus
+|           |        |        |  |                          |  |  +--|
+|           |        |        |  |                          |  |  |  +--cereopsis_novaehollandiae
+|           |        |        |  |                          |  +--|
+|           |        |        |  |                          |     +--anseranas_semipalmata
+|           |        |        |  |                       +--|
+|           |        |        |  |                       |  |  +--cygnus_buccinator
+|           |        |        |  |                       |  +--|
+|           |        |        |  |                       |     +--cygnus_columbianus
+|           |        |        |  |                    +--|
+|           |        |        |  |                    |  |     +--coscoroba_coscoroba
+|           |        |        |  |                    |  |  +--|
+|           |        |        |  |                    |  |  |  +--cygnus_olor
+|           |        |        |  |                    |  +--|
+|           |        |        |  |                    |     +--cygnus_melancoryphus
+|           |        |        |  |                 +--|
+|           |        |        |  |                 |  |  +--cygnus_atratus
+|           |        |        |  |                 |  +--|
+|           |        |        |  |                 |     +--chauna_torquata
+|           |        |        |  |              +--|
+|           |        |        |  |              |  |     +--biziura_lobata
+|           |        |        |  |              |  |  +--|
+|           |        |        |  |              |  |  |  |           +--oxyura_vittata
+|           |        |        |  |              |  |  |  |        +--|
+|           |        |        |  |              |  |  |  |        |  +--oxyura_leucocephala
+|           |        |        |  |              |  |  |  |     +--|
+|           |        |        |  |              |  |  |  |     |  +--oxyura_maccoa
+|           |        |        |  |              |  |  |  |  +--|
+|           |        |        |  |              |  |  |  |  |  +--oxyura_australis
+|           |        |        |  |              |  |  |  +--|
+|           |        |        |  |              |  |  |     |  +--thalassornis_leuconotus
+|           |        |        |  |              |  |  |     +--|
+|           |        |        |  |              |  |  |        |              +--dendrocygna_arcuata
+|           |        |        |  |              |  |  |        |           +--|
+|           |        |        |  |              |  |  |        |           |  +--dendrocygna_viduata
+|           |        |        |  |              |  |  |        |        +--|
+|           |        |        |  |              |  |  |        |        |  +--dendrocygna_bicolor
+|           |        |        |  |              |  |  |        |     +--|
+|           |        |        |  |              |  |  |        |     |  +--dendrocygna_javanica
+|           |        |        |  |              |  |  |        |  +--|
+|           |        |        |  |              |  |  |        |  |  |  +--dendrocygna_eytoni
+|           |        |        |  |              |  |  |        |  |  +--|
+|           |        |        |  |              |  |  |        |  |     +--dendrocygna_guttata
+|           |        |        |  |              |  |  |        +--|
+|           |        |        |  |              |  |  |           |  +--dendrocygna_arborea
+|           |        |        |  |              |  |  |           +--|
+|           |        |        |  |              |  |  |              +--dendrocygna_autumnalis
+|           |        |        |  |              |  +--|
+|           |        |        |  |              |     +--clangula_hyemalis
+|           |        |        |  |           +--|
+|           |        |        |  |           |  |  +--stictonetta_naevosa
+|           |        |        |  |           |  +--|
+|           |        |        |  |           |     +--nettapus_pulchellus
+|           |        |        |  |        +--|
+|           |        |        |  |        |  |  +--neochen_jubata
+|           |        |        |  |        |  +--|
+|           |        |        |  |        |     +--chloephaga_melanoptera
+|           |        |        |  |     +--|
+|           |        |        |  |     |  |                                +--mergus_serrator
+|           |        |        |  |     |  |                             +--|
+|           |        |        |  |     |  |                             |  +--callonetta_leucophrys
+|           |        |        |  |     |  |                          +--|
+|           |        |        |  |     |  |                          |  +--alopochen_aegyptiaca
+|           |        |        |  |     |  |                       +--|
+|           |        |        |  |     |  |                       |  +--pteronetta_hartlaubii
+|           |        |        |  |     |  |                    +--|
+|           |        |        |  |     |  |                    |  +--melanitta_nigra
+|           |        |        |  |     |  |                 +--|
+|           |        |        |  |     |  |                 |  +--bucephala_clangula
+|           |        |        |  |     |  |              +--|
+|           |        |        |  |     |  |              |  +--somateria_fischeri
+|           |        |        |  |     |  |           +--|
+|           |        |        |  |     |  |           |  +--tadorna_tadorna
+|           |        |        |  |     |  |        +--|
+|           |        |        |  |     |  |        |  +--histrionicus_histrionicus
+|           |        |        |  |     |  |     +--|
+|           |        |        |  |     |  |     |  +--mergus_merganser
+|           |        |        |  |     |  |  +--|
+|           |        |        |  |     |  |  |  +--mergellus_albellus
+|           |        |        |  |     |  +--|
+|           |        |        |  |     |     +--somateria_mollissima
+|           |        |        |  |  +--|
+|           |        |        |  |  |  +--bucephala_islandica
+|           |        |        |  +--|
+|           |        |        |     +--malacorhynchus_membranaceus
+|           |        |     +--|
+|           |        |     |  +--cyanochen_cyanopterus
+|           |        |  +--|
+|           |        |  |  +--aix_sponsa
+|           |        +--|
+|           |           |        +--tadorna_tadornoides
+|           |           |     +--|
+|           |           |     |  +--nettapus_coromandelianus
+|           |           |  +--|
+|           |           |  |  +--tadorna_ferruginea
+|           |           +--|
+|           |              |                       +--aythya_americana
+|           |              |                    +--|
+|           |              |                    |  +--aythya_nyroca
+|           |              |                 +--|
+|           |              |                 |  +--aythya_affinis
+|           |              |              +--|
+|           |              |              |  +--aythya_australis
+|           |              |           +--|
+|           |              |           |  +--asarcornis_scutulata
+|           |              |        +--|
+|           |              |        |  +--aythya_marila
+|           |              |     +--|
+|           |              |     |  +--aythya_valisineria
+|           |              |  +--|
+|           |              |  |  +--aythya_collaris
+|           |              +--|
+|           |                 +--netta_rufina
+|        +--|
+|        |  +--speculanas_specularis
+|     +--|
+|     |  +--sarkidiornis_melanotos
+|  +--|
+|  |  +--chenonetta_jubata
++--|
+|  +--lophonetta_specularioides
+|
++--marmaronetta_angustirostris
+
+Parsimony score of the tree: 79
+Tree in newick format:
+
+(aix_galericulata,(((((cairina_moschata,(amazonetta_brasiliensis,(tachyeres_pteneres,((((((((((((((((((((((mareca_penelope,anas_superciliosa),spatula_discors),anas_zonorhyncha),anas_flavirostris_flavirostris),anas_carolinensis),sibirionetta_formosa),anas_platyrhynchos),mareca_americana),spatula_querquedula),anas_acuta),mareca_falcata),mareca_strepera),mareca_sibilatrix),anas_cyanoptera_septentrionalium),anas_georgica),anas_melleri),(((anas_rhynchotis,anas_platalea),anas_cyanoptera_cyanoptera),spatula_clypeata)),(anas_flavirostris_oxyptera,(anas_puna,anas_bahamensis))),(((((((((((((branta_canadensis,branta_leucopsis),branta_bernicla),branta_sandvicensis),(((((((((anser_anser,anser_albifrons),anser_fabalis),anser_canagicus),anser_caerulescens),anser_rossii),anser_cygnoides),anser_indicus),cereopsis_novaehollandiae),anseranas_semipalmata)),(cygnus_buccinator,cygnus_columbianus)),((coscoroba_coscoroba,cygnus_olor),cygnus_melancoryphus)),(cygnus_atratus,chauna_torquata)),((biziura_lobata,((((oxyura_vittata,oxyura_leucocephala),oxyura_maccoa),oxyura_australis),(thalassornis_leuconotus,(((((dendrocygna_arcuata,dendrocygna_viduata),dendrocygna_bicolor),dendrocygna_javanica),(dendrocygna_eytoni,dendrocygna_guttata)),(dendrocygna_arborea,dendrocygna_autumnalis))))),clangula_hyemalis)),(stictonetta_naevosa,nettapus_pulchellus)),(neochen_jubata,chloephaga_melanoptera)),(((((((((((mergus_serrator,callonetta_leucophrys),alopochen_aegyptiaca),pteronetta_hartlaubii),melanitta_nigra),bucephala_clangula),somateria_fischeri),tadorna_tadorna),histrionicus_histrionicus),mergus_merganser),mergellus_albellus),somateria_mollissima)),bucephala_islandica),malacorhynchus_membranaceus)),cyanochen_cyanopterus),aix_sponsa),(((tadorna_tadornoides,nettapus_coromandelianus),tadorna_ferruginea),((((((((aythya_americana,aythya_nyroca),aythya_affinis),aythya_australis),asarcornis_scutulata),aythya_marila),aythya_valisineria),aythya_collaris),netta_rufina)))))),speculanas_specularis),sarkidiornis_melanotos),chenonetta_jubata),lophonetta_specularioides),marmaronetta_angustirostris);
+
+TIME STAMP
+----------
+
+Date and time: Sun Nov 21 15:51:04 2021
+Total CPU time used: 0.661694 seconds (0h:0m:0s)
+Total wall-clock time used: 0.66332 seconds (0h:0m:0s)
+
