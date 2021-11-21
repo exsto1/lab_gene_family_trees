@@ -1,4 +1,4 @@
-file_h = open("temp/sequence.fasta")
+file_h = open("../temp/sequence.fasta")
 file = file_h.readlines()
 file_h.close()
 file = [i.rstrip() for i in file]
@@ -29,7 +29,7 @@ for i in data:
         organism[i[0].split("[")[1].split("]")[0].lower()].append(i)
 
 
-newfile = open("temp/msa.fasta", "w")
+newfile = open("../temp/msa.fasta", "w")
 counter = 0
 selected_organisms = []
 for i in organism:
@@ -42,7 +42,7 @@ print(counter)
 newfile.close()
 
 
-newfile = open("temp/organism_list.txt", "w")
+newfile = open("../temp/organism_list.txt", "w")
 for i in selected_organisms:
     newfile.write(i + "\n")
 newfile.close()
